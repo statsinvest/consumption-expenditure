@@ -4,7 +4,7 @@ library(ggplot2)
 library(tidyr)
 library(ggsci)
 
-d <- fread("SNA_TABLE5.csv")
+d <- fread("data/SNA_TABLE5.csv")
 
 d.us <- filter(d, LOCATION == "USA", MEASURE == "VOB");
 
