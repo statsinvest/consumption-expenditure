@@ -1,0 +1,7 @@
+Data were retrieved on 2020-09-12 from
+https://stats.oecd.org/Index.aspx?DataSetCode=SNA_TABLE5
+
+1. Click "Export" > "Text file (CSV)".
+2. Ensure that "Default format" option is selected.
+3. Click "Download".
+
